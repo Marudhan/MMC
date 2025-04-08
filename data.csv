@@ -1,0 +1,6 @@
+AL,B4C,BioChar,Stirrer Speed,Melt Temp,Furnace Temp,Reinforcement Preheat Temp,Tensile Strength (MPa),Hardness (BHN),Flexural Strength (MPa),Bending Stiffness (N-mm2),Displacement (mm),Impact Strength (J),Fatigue Strength,Wear Strength
+95,4,1,500,700,720,300,134.04,110,646.08,12630000,15.6,14,250,0.15
+94,5,1,550,710,730,310,135.00,104,874.56,5570000,17.5,13,260,0.16
+93,3,4,520,705,725,290,74.52,80.9,454.08,6670000,7.47,16,240,0.14
+92,6,2,480,695,715,280,104.40,89.4,887.04,7740000,8.09,12,255,0.18
+91,7,2,530,715,735,295,141.42,111,732.48,3510000,16.52,15,270,0.17
